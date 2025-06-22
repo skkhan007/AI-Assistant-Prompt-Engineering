@@ -1,0 +1,4 @@
+
+---
+
+Let me know if you want a **Flask-based web version** or a **PowerPoint user guide**, and I’ll generate that for you too!
